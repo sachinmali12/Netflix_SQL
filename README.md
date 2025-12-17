@@ -2,9 +2,12 @@
 🎬 Netflix End-to-End Data Analytics Project This project is a complete end-to-end data analytics pipeline built using a real Netflix dataset from Kaggle. It covers everything from data cleaning to exploratory data analysis (EDA) and data visualization, delivering insights into Netflix content distribution, genres, ratings, and trends.
 
 
-# Netflix Movies and TV Shows Data Analysis using SQL
+<p align="center">
+  <img src="https://github.com/sachinmali12/Netflix_SQL/blob/main/logo.png?raw=true" width="600" height="300">
+</p>
 
-![](https://github.com/sachinmali12/Netflix_SQL/logo.png)
+<h1 align="center">🎬 Netflix Movies & TV Shows Data Analysis using SQL</h1>
+
 
 ## Overview
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
